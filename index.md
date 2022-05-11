@@ -3,7 +3,7 @@
 https://nico.ms/sm40436789# <a name="header-1-8f7f4c1ce7a4f933663d10543562b096"></a> About
 簡単な自己紹介やアピール。
 どんなことができる、したいのか。
-
+<a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/TBy3yFFXy0IiOBX?ref_src=twsrc%5Etfw">Tweets by TBy3yFFXy0IiOBX</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ## <a name="header-2-cce99c598cfdb9773ab041d54c3d973a"></a> Profile
 - 名前（ハンドルネームも可）
 - 所在地（県や市まででOK）
